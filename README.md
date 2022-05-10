@@ -9,5 +9,5 @@ npm install
 
 ### To run
 ```
-npm run build
+npm run serve
 ```
