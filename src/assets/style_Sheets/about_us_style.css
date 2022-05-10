@@ -1,17 +1,25 @@
-html {
+.About_us {
     scroll-behavior: smooth;
     background-color: rgba(137, 137, 137, 0.557);
 }
 
 nav {
-    height: 75px;
+    height: 100px;
     width: 100%;
     background-color: rgb(124, 10, 2);
     
 }
 
+.center router-link {
+    border-style: solid;
+    color: rgba(255, 255, 255, 0.749);
+    border-color: rgba(255, 255, 255, 0.407);
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 25;
+}
+
 .center a {
-    margin-left: 10px;
     border-style: solid;
     color: rgba(255, 255, 255, 0.749);
     border-color: rgba(255, 255, 255, 0.407);
@@ -21,20 +29,20 @@ nav {
 }
 
 .center {
-    display: inline-block;
-    margin-right: 19%;
+    display: inline;
+    margin-right: 20%;
     vertical-align: middle;
 }
 
 .left {
-    display: inline-block;
-    margin-right: 18%;
-    margin-left: 6%;
+    display: inline;
+    margin-right: 21%;
+    margin-left: 18%;
     vertical-align: middle
 }
 
 .right {
-    display: inline-block;
+    display: inline;
     vertical-align: middle
 }
 
@@ -88,6 +96,7 @@ nav {
     display: inline-block;
     margin-right: 5%;
     padding-left: 3%;
+    margin-bottom: 2%;
 }
 
 .body3 h1 {
@@ -101,7 +110,7 @@ nav {
 .body4 {
     display: inline-block;
     width: 45%;
-    padding-bottom: 50px;
+    margin-top: 2%;
 }
 
 footer {

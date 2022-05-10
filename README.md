@@ -1,3 +1,13 @@
 # BrewForYou_Coffee_Shop
+	
+# hello-world
 
-Website: https://sooryr.github.io/BrewForYou_Coffee_Shop/home.html
+## Project setup
+```
+npm install
+```
+
+### To run
+```
+npm run build
+```
